@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ddd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\eddaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\eddaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|C:\\Users\\user\\source\\repos\\ddd\\ddd\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|C:\\Users\\user\\source\\repos\\ddd\\ddd\\adminform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\adminform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\models\\ispr2522safiulinaadobcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\models\\ispr2522safiulinaadobcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\models\\statusorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\models\\statusorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\models\\categoriaproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\models\\categoriaproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|C:\\Users\\user\\source\\repos\\ddd\\ddd\\menform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\menform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|C:\\Users\\user\\source\\repos\\ddd\\ddd\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|C:\\Users\\user\\source\\repos\\ddd\\ddd\\clientform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\clientform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|C:\\Users\\user\\source\\repos\\ddd\\ddd\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\clientform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\clientform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|c:\\users\\user\\source\\repos\\ddd\\ddd\\eddaddform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\eddaddform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|C:\\Users\\user\\source\\repos\\ddd\\ddd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADECE920-9D59-456C-B365-B99CA9FF619A}|ddd\\ddd.csproj|solutionrelative:ddd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatusOrder.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\StatusOrder.cs",
+              "RelativeDocumentMoniker": "ddd\\Models\\StatusOrder.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\StatusOrder.cs",
+              "RelativeToolTip": "ddd\\Models\\StatusOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:20:56.614Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\AdminForm2.cs",
+              "RelativeDocumentMoniker": "ddd\\AdminForm2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\AdminForm2.cs [Design]",
+              "RelativeToolTip": "ddd\\AdminForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:21:09.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\AdminForm.cs",
+              "RelativeDocumentMoniker": "ddd\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\AdminForm.cs [Design]",
+              "RelativeToolTip": "ddd\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T16:34:57.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ddd\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\Order.cs",
+              "RelativeToolTip": "ddd\\Models\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:01:21.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tovar.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\Tovar.cs",
+              "RelativeDocumentMoniker": "ddd\\Models\\Tovar.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\Tovar.cs",
+              "RelativeToolTip": "ddd\\Models\\Tovar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T09:27:18.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ddd\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\User.cs",
+              "RelativeToolTip": "ddd\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:00:37.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\AdminForm.cs",
+              "RelativeDocumentMoniker": "ddd\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\AdminForm.cs",
+              "RelativeToolTip": "ddd\\AdminForm.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAnwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T16:35:10.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Program.cs",
+              "RelativeDocumentMoniker": "ddd\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Program.cs",
+              "RelativeToolTip": "ddd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:15:52.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriaProduct.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\CategoriaProduct.cs",
+              "RelativeDocumentMoniker": "ddd\\Models\\CategoriaProduct.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\CategoriaProduct.cs",
+              "RelativeToolTip": "ddd\\Models\\CategoriaProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:20:44.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EddAddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\EddAddForm.cs",
+              "RelativeDocumentMoniker": "ddd\\EddAddForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\EddAddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ddd\\EddAddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T12:59:43.401Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ispr2522SafiulinaAdObContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\Ispr2522SafiulinaAdObContext.cs",
+              "RelativeDocumentMoniker": "ddd\\Models\\Ispr2522SafiulinaAdObContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\Ispr2522SafiulinaAdObContext.cs",
+              "RelativeToolTip": "ddd\\Models\\Ispr2522SafiulinaAdObContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:34:08.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "ddd\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\Address.cs",
+              "RelativeToolTip": "ddd\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:20:42.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ddd\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "ddd\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:01:13.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ddd\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Models\\Product.cs",
+              "RelativeToolTip": "ddd\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:14:46.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\ClientForm.cs",
+              "RelativeDocumentMoniker": "ddd\\ClientForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\ClientForm.cs [Design]",
+              "RelativeToolTip": "ddd\\ClientForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:03:19.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\ClientForm.cs",
+              "RelativeDocumentMoniker": "ddd\\ClientForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\ClientForm.cs",
+              "RelativeToolTip": "ddd\\ClientForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:03:21.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenForm2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\MenForm2.cs",
+              "RelativeDocumentMoniker": "ddd\\MenForm2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\MenForm2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ddd\\MenForm2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T16:34:53.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClientForm2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\ClientForm2.cs",
+              "RelativeDocumentMoniker": "ddd\\ClientForm2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\ClientForm2.cs",
+              "RelativeToolTip": "ddd\\ClientForm2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:57:45.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientForm2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\ClientForm2.cs",
+              "RelativeDocumentMoniker": "ddd\\ClientForm2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\ClientForm2.cs [Design]",
+              "RelativeToolTip": "ddd\\ClientForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:57:43.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\AuthForm.cs",
+              "RelativeDocumentMoniker": "ddd\\AuthForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\AuthForm.cs",
+              "RelativeToolTip": "ddd\\AuthForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:45:25.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\AuthForm.cs",
+              "RelativeDocumentMoniker": "ddd\\AuthForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\AuthForm.cs [Design]",
+              "RelativeToolTip": "ddd\\AuthForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:44:08.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EddAddForm2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\EddAddForm2.cs",
+              "RelativeDocumentMoniker": "ddd\\EddAddForm2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\EddAddForm2.cs",
+              "RelativeToolTip": "ddd\\EddAddForm2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:25:00.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Form1.cs",
+              "RelativeDocumentMoniker": "ddd\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ddd\\ddd\\Form1.cs [Design]",
+              "RelativeToolTip": "ddd\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T12:52:42.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
